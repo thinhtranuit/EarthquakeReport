@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EarthQuakeReport.iml" filepath="$PROJECT_DIR$/EarthQuakeReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EarthquakeReport.iml" filepath="$PROJECT_DIR$/EarthquakeReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
